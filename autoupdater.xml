@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.0.0</version>
-    <url>https://github.com/wssyncmldm/frija/releases/download/v1.1/Frija.zip</url>
-    <changelog>* Initial release</changelog>
+    <version>1.1.1.0</version>
+    <url>https://github.com/wssyncmldm/frija/releases/download/v1.1.1/Frija.zip</url>
+    <changelog>* Bug fixes for issue that resulted in error: "Unable to find Firmware" for T-Mobile S9 devices.\n* Fixed overwrite dialog window for night mode.</changelog>
     <mandatory>true</mandatory>
 </item>
