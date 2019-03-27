@@ -2,6 +2,6 @@
 <item>
     <version>1.1.2.0</version>
     <url>https://github.com/wssyncmldm/frija/releases/download/v1.1.2/Frija.zip</url>
-    <changelog>* Improved firmware search. \.n* Fixed issue where firmware was not available for valid Device and CSC. \n* Updated some message strings displayed to user</changelog>
+    <changelog>* Improved firmware search. \n* Fixed issue where firmware was not available for valid Device and CSC. \n* Updated some message strings displayed to user</changelog>
     <mandatory>true</mandatory>
 </item>
