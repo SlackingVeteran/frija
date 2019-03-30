@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.3.0.0</version>
-    <url>https://github.com/wssyncmldm/frija/releases/download/v1.3.0/Frija-v1.3.0.zip</url>
+    <version>1.1.2.0</version>
+    <url>https://github.com/wssyncmldm/frija/releases/download/v1.1.2/Frija-v1.1.2.zip</url>
     <changelog> * Fixed decryption issue of enc2 type encrypted firmware \n * Users running Frija v1.1.1 download new update manually: http://bit.ly/frija-1-3</changelog>
     <mandatory>true</mandatory>
 </item>
