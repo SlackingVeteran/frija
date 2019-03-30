@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.1.2.0</version>
-    <url>https://github.com/wssyncmldm/frija/releases/download/v1.1.2/Frija-v1.1.2.zip</url>
-    <changelog> * Fixed decryption issue of enc2 type encrypted firmware \n * Users running Frija v1.1.1 download new update manually: http://bit.ly/frija-1-3</changelog>
+    <url>https://github.com/wssyncmldm/frija/releases/download/v1.1.2/Frija.zip</url>
+    <changelog>* Auto-updater has a bug in current version of Frija and wont update to new version automatically, please use the link to download update manually: https://goo.gl/idXAkQ \n* Improved firmware search. \n* Fixed issue where firmware was not available for valid Device and CSC. \n* Updated some message strings displayed to user</changelog>
     <mandatory>true</mandatory>
 </item>
