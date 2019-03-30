@@ -2,6 +2,6 @@
 <item>
     <version>1.3.0.0</version>
     <url>https://github.com/wssyncmldm/frija/releases/download/v1.3.0/Frija-v1.3.0.zip</url>
-    <changelog> * Fixed decryption issue of enc2 type encrypted firmware \n * If your current version of Frija is v1.1.1, app won't update to new version automatically, please use the link to download update manually: http://bit.ly/frija-1-3</changelog>
+    <changelog> * Fixed decryption issue of enc2 type encrypted firmware \n * Users running Frija v1.1.1 download new update manually: http://bit.ly/frija-1-3</changelog>
     <mandatory>true</mandatory>
 </item>
