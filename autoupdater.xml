@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.1.0</version>
-    <url>https://github.com/wssyncmldm/frija/releases/download/v1.4.1/Frija-v1.4.1.zip</url>
-    <changelog>• Hotfix for some major issue on 1.4.0 \n • Added error message if Microsoft Redist packages are missing \n • New Settings option \n • Removed support message feature and added new Issue Tracker URL \n • Overall UI improvement \n • Added setting to disable CRC check</changelog>
+    <version>1.4.2.0</version>
+    <url>https://github.com/wssyncmldm/frija/releases/download/v1.4.2/Frija-v1.4.2.zip</url>
+    <changelog>• Improved Firmware search method \n• Added support for Dual Sim model \n• Added Frija sage number in About Page \n• Load Samsung dll libraries in efficient way \n• Fixed sub text for on/off in Settings Page</changelog>
     <mandatory>true</mandatory>
 </item>
