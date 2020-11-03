@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.2.0</version>
-    <url>https://github.com/wssyncmldm/frija/releases/download/v1.4.2/Frija-v1.4.2.zip</url>
-    <changelog>• Improved Firmware search method \n• Added support for Dual Sim model \n• Added Frija usage number in About Page \n• Load Samsung dll libraries in efficient way \n• Fixed sub text for on/off in Settings Page</changelog>
+    <version>1.4.3.0</version>
+    <url>https://github.com/wssyncmldm/frija/releases/download/v1.4.3/Frija-v1.4.3.zip</url>
+    <changelog>• Fixed firmware lookup and download issue</changelog>
     <mandatory>true</mandatory>
 </item>
