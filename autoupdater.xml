@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.3.0</version>
-    <url>https://github.com/wssyncmldm/frija/releases/download/v1.4.3/Frija-v1.4.3.zip</url>
-    <changelog>• Fixed firmware lookup and download issue</changelog>
+    <version>1.4.4.0</version>
+    <url>https://github.com/wssyncmldm/frija/releases/download/v1.4.4/Frija-v1.4.4.zip</url>
+    <changelog>• Fixed an issue where if firmware paused and resumed after downloading more than 1.9 GB failed to download complete firmware \n • Added invite link to Frija Discord</changelog>
     <mandatory>true</mandatory>
 </item>
