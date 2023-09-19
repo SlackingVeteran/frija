@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.0.1</version>
-    <url>https://github.com/wssyncmldm/frija/releases/download/v1.4.2/Frija-v1.4.2.zip</url>
-    <changelog>This is Beta</changelog>
+    <version>2.0.23262.2</version>
+    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.23262.2/Frija_v2.0.23262.2.zip</url>
+    <changelog>• New UI \n • Improved performance, better error/exception logging \n • Independent of Samsung dll libraries \n • Improved CRC check \n • UI includes more details on Download, CRC validation and Decrypt processes \n • New Fluent UI with Light/Dark and System theme support \n • New Auto mode to retrieve firmware from FUS server for device connected to PC \n • Frija now uses Samsung drivers instead of ADB to pull device info needed to find the firmware in Auto mode. \n • Added a dialog box notifying users that firmware has been successfully downloaded. \n • Mica effect on Windows 11 for both dark and light theme. \n • Added many small UI improvements \n • Fixes issue where Frija v1.4.4 can no longer download any firmware</changelog>
     <mandatory>true</mandatory>
 </item>
