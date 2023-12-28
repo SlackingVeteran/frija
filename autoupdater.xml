@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.23357.1</version>
-    <url>https://github.com/SlackingVeteran/frija/releases/download/v2.0.23357.1/Frija_v2.0.23357.1.zip</url>
-    <changelog>\u2022 Fix Frija not able to retrieve firmware \n\u2022 Use new SmartSwitch's encryption keys \n\u2022 Frija can pull firmware for EUX csc</changelog>
+    <version>2.0.23362.1</version>
+    <url>https://github.com/SlackingVeteran/frija/releases/download/v2.0.23362.1/Frija_v2.0.23362.1.zip</url>
+    <changelog>\u2022 Fix Frija not able to retrieve firmware \n \u2022 Add IMEI/SN field for firmware lookup \n \u2022 Fix Device name retrieval in auto mode \n \u2022 Remove Manual (Legacy) mode \n \u2022 Rename Auto (Experimental) to Auto</changelog>
     <mandatory>true</mandatory>
 </item>
