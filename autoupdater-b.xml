@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.23262.4</version>
-    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.23262.4/Frija_v2.0.23262.4.zip</url>
-    <changelog>\u2022 New UI \n \u2022 Improved performance, better error/exception logging \n \u2022 Independent of Samsung dll libraries \n \u2022 Improved CRC check \n \u2022 UI includes more details on Download, CRC validation and Decrypt processes \n \u2022 New Fluent UI with Light/Dark and System theme support \n \u2022 New Auto mode to retrieve firmware from FUS server for device connected to PC \n \u2022 Frija now uses Samsung drivers instead of ADB to pull device info needed to find the firmware in Auto mode. \n \u2022 Added a dialog box notifying users that firmware has been successfully downloaded. \n \u2022 Mica effect on Windows 11 for both dark and light theme. \n \u2022 Added many small UI improvements \n \u2022 Fixes issue where Frija v1.4.4 can no longer download any firmware</changelog>
+    <version>2.0.23362.1</version>
+    <url>https://github.com/SlackingVeteran/frija/releases/download/v2.0.23362.1/Frija_v2.0.23362.1.zip</url>
+    <changelog>https://github.com/SlackingVeteran/frija/releases</changelog>
     <mandatory>true</mandatory>
 </item>
