@@ -2,6 +2,6 @@
 <item>
     <version>2.0.23362.1</version>
     <url>https://github.com/SlackingVeteran/frija/releases/download/v2.0.23362.1/Frija_v2.0.23362.1.zip</url>
-    <changelog>https://github.com/SlackingVeteran/frija/releases</changelog>
+    <changelog>https://github.com/SlackingVeteran/frija/releases/latest</changelog>
     <mandatory>true</mandatory>
 </item>
