@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.23364.3</version>
-    <url>https://github.com/SlackingVeteran/frija/releases/download/v2.0.23364.3/Frija_v2.0.23364.3.zip</url>
+    <version>2.0.26142.10</version>
+    <url>https://github.com/SlackingVeteran/frija/releases/download/v2.0.26142.10/Frija_v2.0.26142.10.zip</url>
     <changelog>https://github.com/SlackingVeteran/frija/releases/latest</changelog>
     <mandatory>true</mandatory>
 </item>
